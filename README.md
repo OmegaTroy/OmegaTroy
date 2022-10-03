@@ -1,20 +1,23 @@
 <!-- /code_chunk_output -->
-![img](src/fondo.jpg)
+<img width="100%" src="src/fondo.jpg"/>
 
 <h1 align="center"> Hi, I'm Omega Troy...👋</h1>
 
 **Junior FullStack Web Developer.**
 
-### about:
+## about:
 
-I am a young. who is passionate about         programming, I like to keep up with new technologies.
+I am a young. who is passionate about programming, I like to keep up with new technologies.
 
 I have been studying programming on my own for more than a year and I have learned a lot in this time
 
 **hobbies:** 
->  video games
-> watch movies/animes
-> read mangas
+> video games,
+> 
+> watch movies/animes,
+> 
+> read mangas,
+> 
 > edit photos and videos basic level
 
 ## skills:
@@ -33,9 +36,6 @@ I have been studying programming on my own for more than a year and I have learn
 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
-  
-  ---
-  
 <!--
 **OmegaTroy/OmegaTroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
