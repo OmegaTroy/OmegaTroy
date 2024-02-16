@@ -15,11 +15,8 @@ I have been studying programming on my own for more than a year and I have learn
 > video games,
 > 
 > watch movies/animes,
+>
 > 
-
-https://github.com/OmegaTroy/OmegaTroy/assets/57204144/9d1160f7-82b7-4a01-a435-f60cceb82236
-
-
 > read mangas,
 > 
 > edit photos and videos basic level
